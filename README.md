@@ -4,6 +4,4 @@
 - 📫 How to reach me ping me hear shivaramudu2002@gmail.com
 - 👨‍💻 All of my projects are available at https://github.com/shivaramuduGonegandla
 - ⚡ Fun fact Enough is not much Enough
-- 🖥️👨‍💻 My Portofolio Website is https://shivaramudugonegandla.github.io/Portofolio_Webiste/
-- 
-
+- 🖥️👨‍💻 My Portofolio Website is https://shivaramudugonegandla.github.io/Portofolio_Webiste/  
